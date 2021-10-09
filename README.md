@@ -1,3 +1,4 @@
+<div align=center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=test &fontSize=90" /></div>
 [![Jang184's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true&theme=vue)
 ](https://github.com/anuraghazra/github-readme-stats)
 
