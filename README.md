@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=사랑과 지식을 나누는 개발자, 장이주입니다! &fontSize=50$desc=test" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=사랑과 지식을 나누는 개발자, 장이주입니다! &fontSize=50&desc=test" /></div>
 
 [![Jang184's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true&theme=vue)
 ](https://github.com/anuraghazra/github-readme-stats)
