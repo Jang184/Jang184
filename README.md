@@ -1,7 +1,7 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=Soft&color=c5d9ed&height=300&section=header&text=환영합니다!&fontSize=40&desc=사랑과 지식을 나누는 개발자, 장이주입니다." /></div>
 
-[![Jang184's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true&theme=vue)
-](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>[![Jang184's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true&theme=vue)
+](https://github.com/anuraghazra/github-readme-stats)</div>
 
 <!--
 **Jang184/Jang184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
