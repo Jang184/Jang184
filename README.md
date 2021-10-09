@@ -1,5 +1,7 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=Soft&color=3582c4&height=300&section=header&text=환영합니다!&fontSize=50&fontColor=f0f6fc&desc=사랑과 지식을 나누는 개발자, 장이주입니다.&descSize=30&descAlignY=65"/></div>
 
+---
+
 <div align=center>
 <h3>주요기술</h3>
 <p>
