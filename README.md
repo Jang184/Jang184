@@ -13,7 +13,7 @@
 </div>
 <h3 align="center">Contact Me</h3>
 <div align=center>
-  <a href="mailto:e2joo418@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cm9542@gmail.com"/></a>
+https://img.shields.io/static/v1?label=email&message=e2joo418@gmail.com&color=lightgrey
 </div>
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true"></div>
 
