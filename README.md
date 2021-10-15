@@ -20,7 +20,7 @@
 
 ---
 
-<div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236CADD7&title_bg=%23767C7E&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
+<div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJang184%2Fhit-counter&count_bg=%236CADD7&title_bg=%23767C7E&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
 <!--
 **Jang184/Jang184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
