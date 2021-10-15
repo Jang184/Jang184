@@ -16,6 +16,7 @@
 <a href="mailto:e2joo418@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=e2joo418@gmail.com"/></a>
 <a href="https://jang184.github.io/"><img src="https://img.shields.io/badge/GithubPage-black?style=flat-square&logo=Github&logoColor=white&link=https://jang184.github.io/"/></a>
 </div>
+<br>
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true"></div>
 
 ---
