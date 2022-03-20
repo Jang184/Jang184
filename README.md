@@ -1,3 +1,5 @@
+# 안녕하세요. 행복한 백엔드 개발자 장이주입니다.
+
 > 하루하루는 성실하게, 인생 전체는 되는대로
 
 평소 영화 감상을 좋아해 영화 감상평을 자주 찾아보곤 합니다. 영화 평론가인 이동진님의 영화 한줄평을 볼 때마다 절절하게 공감하기도 하고 내가 놓친 부분을 깨닫기도 합니다. 최근 이동진님이 유퀴즈라는 프로그램에서 자신의 삶을 한줄로 하루하루는 성실하게, 인생 전체는 되는대로라고 표현했습니다. 어차피 인생은 목적을 가지고 전력투구해도 안된다는 것을 알기 때문에 지금 내가 노력을 기울여 할 수 있는 것인 오늘 하루 성실한 것을 실천하자. 는 의미라고 합니다.
@@ -20,7 +22,5 @@
 </div>
 <br>
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=Jang184&count_private=true&show_icons=true"></div>
-
----
 
 <div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJang184&count_bg=%2368B3FB&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
